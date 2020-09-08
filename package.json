@@ -1,0 +1,22 @@
+{
+  "name": "momoney",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "@openzeppelin/test-helpers": "^0.5.6",
+    "@studydefi/money-legos": "^2.3.7",
+    "@truffle/hdwallet-provider": "^1.0.43",
+    "ethers": "^5.0.9",
+    "truffle": "^5.1.42"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "directories": {
+    "test": "test"
+  },
+  "description": ""
+}
